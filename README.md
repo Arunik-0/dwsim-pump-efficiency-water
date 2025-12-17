@@ -36,4 +36,4 @@ is to be determined.
 
 ## Files Included
 - `Water_Pump_Problem.dwxmz`: DWSIM simulation file
-![Simulation Results](results.png)
+![Simulation Results](result.png)
