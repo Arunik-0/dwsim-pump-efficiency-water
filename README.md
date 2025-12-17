@@ -28,6 +28,8 @@ is to be determined.
 ## Results
 - Outlet pressure: 84 bar
 - Outlet temperature: **137.157 °C** (from simulation)
+- ![Simulation Results](result.png)
+
 
 ## Key Learning
 - Effect of pump inefficiency on temperature rise
@@ -36,4 +38,3 @@ is to be determined.
 
 ## Files Included
 - `Water_Pump_Problem.dwxmz`: DWSIM simulation file
-![Simulation Results](result.png)
